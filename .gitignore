@@ -1,0 +1,11 @@
+# Ignore uploaded profile pictures (privacy)
+uploads/profile/*
+!uploads/profile/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
